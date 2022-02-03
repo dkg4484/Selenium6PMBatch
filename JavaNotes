@@ -1,0 +1,27 @@
+Package Name:
+
+// Oracle
+
+1. lower case
+2. seperate with .
+
+com.web.amazon.testcases
+
+com.mobile.pages
+
+// Project --> Multiple package
+
+Package --> Multiple Class File
+
+10 versions
+
+--------------
+
+Inheritance
+
+1. Single Level  --> Parent + Child
+2. Multi level --> Parent --> Child --> Sub Child --> Sub sub child ---> Chain Process
+3. Multiple --> Multiple Parent + Single Child
+4. Hierarichal --> Single parent + Multiple Childs
+5. Hybrid --> Combination of any two types of inheritance Single + Hierarhical
+
